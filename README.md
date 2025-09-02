@@ -34,15 +34,16 @@ ATM/
 
 
 
-## 🖥️ Example Output
+
 ```
+## 🖥️ Example Output
 __________________________________________________________________________________
 ===============================Login Screen======================================
 __________________________________________________________________________________
 
-Enter Account Number : 12345
+Enter Account Number : .....
 
-Enter Pin Code : 00000
+Enter Pin Code : ......
 
 Login Successfully**
 
@@ -58,3 +59,4 @@ Login Successfully**
 [5] Logout. 
 __________________________________________
 Choose The Number Of You Want Do ? [1] To [5] : 
+
